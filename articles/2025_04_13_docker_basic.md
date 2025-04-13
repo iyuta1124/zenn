@@ -1,6 +1,6 @@
 ---
 title: 'Dockerの基本'
-emoji: '��'
+emoji: '🐳'
 type: 'tech'
 topics: ['docker', 'container', 'devops']
 published: false
